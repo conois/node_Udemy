@@ -1,0 +1,15 @@
+{
+  "name": "bases-node",
+  "version": "1.0.0",
+  "description": "aplicacin de linea de comando",
+  "main": "app.js",
+  "dependencies": {
+    "yargs": "^12.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Constanza",
+  "license": "ISC"
+}
